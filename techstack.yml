@@ -2,7 +2,7 @@ repo_name: abenteuerzeit/adopt-a-pet
 report_id: 2f51aeb9905a42313e0ab45ba4227463
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:49:31+00:00'
+timestamp: '2024-02-29T18:39:46+00:00'
 requested_by: abenteuerzeit
 provider: github
 branch: master
@@ -80,7 +80,7 @@ tools:
   detection_source_url: https://github.com/abenteuerzeit/adopt-a-pet
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.3.0
   license: MIT
